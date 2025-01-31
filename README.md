@@ -7,3 +7,7 @@ terraform init -upgrade
 terraform plan -out
 #Run the following to apply the code
 terraform apply
+
+
+Find files
+C:\Users\b206\hello_terraform\simple_webserver

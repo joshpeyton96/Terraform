@@ -1,4 +1,4 @@
-# Terraform
+# Terraform - VM
 Azure VM build -Platform engineering course.
 Use Visual Studio to run and execute this code.
 #Run the following to initialize 
